@@ -1,0 +1,6 @@
+{
+  "name": "DOUANE CALCUL RDC",
+  "description": "Simulateur professionnel de pré-dédouanement et d'estimation des droits & taxes douaniers pour la RDC (Port de Matadi, Kinshasa, Boma) basé sur le tarif officiel SH 2022 de la DGDA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
